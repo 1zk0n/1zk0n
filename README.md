@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Sean here aka 1zk0n 👋
 
 - 🔭 I’m currently working on my web app pentesting skills and personal side projects 
 - 🌱 I’m currently learning web app pentesting techniques and recon
